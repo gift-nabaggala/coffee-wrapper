@@ -1,8 +1,8 @@
-import readline from "readline";
-import { SimpleCoffee } from "./SimpleCoffee";
-import { MilkDecorator } from "./MilkDecorator";
-import { SugarDecorator } from "./SugarDecorator";
-import type { Coffee } from "./coffee";
+import * as readline from "readline";
+import { SimpleCoffee } from "./SimpleCoffee.js";
+import { MilkDecorator } from "./MilkDecorator.js";
+import { SugarDecorator } from "./SugarDecorator.js";
+import type { Coffee } from "./coffee.js";
 
 let coffee: Coffee = new SimpleCoffee();
 

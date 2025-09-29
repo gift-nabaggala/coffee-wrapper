@@ -1,4 +1,4 @@
-import type { Coffee } from "./coffee";
+import type { Coffee } from "./coffee.js";
 
 export abstract class CoffeeDecorator implements Coffee {
   protected coffee: Coffee;

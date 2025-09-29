@@ -1,0 +1,1 @@
+{"version":3,"file":"SugarDecorator.js","sourceRoot":"","sources":["../SugarDecorator.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,eAAe,EAAE,MAAM,sBAAsB,CAAC;AAEvD,MAAM,OAAO,cAAe,SAAQ,eAAe;IACjD,IAAI;QACF,OAAO,KAAK,CAAC,IAAI,EAAE,GAAG,CAAC,CAAC;IAC1B,CAAC;IAED,WAAW;QACT,OAAO,KAAK,CAAC,WAAW,EAAE,GAAG,SAAS,CAAC;IACzC,CAAC;CACF"}

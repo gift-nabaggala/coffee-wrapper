@@ -1,0 +1,1 @@
+{"version":3,"file":"CoffeeDecorator.d.ts","sourceRoot":"","sources":["../CoffeeDecorator.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,MAAM,EAAE,MAAM,aAAa,CAAC;AAE1C,8BAAsB,eAAgB,YAAW,MAAM;IACrD,SAAS,CAAC,MAAM,EAAE,MAAM,CAAC;gBAEb,MAAM,EAAE,MAAM;IAI1B,IAAI,IAAI,MAAM;IAId,WAAW,IAAI,MAAM;CAGtB"}

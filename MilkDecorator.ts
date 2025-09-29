@@ -1,5 +1,5 @@
-import type { Coffee } from "./coffee";
-import { CoffeeDecorator } from "./CoffeeDecorator";
+import type { Coffee } from "./coffee.js";
+import { CoffeeDecorator } from "./CoffeeDecorator.js";
 
 export class MilkDecorator extends CoffeeDecorator {
   cost(): number {
